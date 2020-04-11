@@ -4,5 +4,4 @@ Detects and maps 2D facial attributes to 3D planes
 ## Helpful Resources  
 http://dlib.net/  
 https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/  
-https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/  
-https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/   
+https://github.com/AaronJackson/vrn
